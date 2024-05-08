@@ -1,5 +1,7 @@
 # BroadCast Receiver
 
+# **In Progress**
+
 - BroadCast Receiver는 publish-subscribe디자인 페턴을 따른다
     - 이 디자인 페턴은
         - Publisher과 Subscriber로 나눠서 Publisher는 메시지를 발행하고
