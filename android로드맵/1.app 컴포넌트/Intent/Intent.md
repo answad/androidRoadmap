@@ -195,5 +195,4 @@ try {
         <data android:mimeType="video/*"/>
     </intent-filter>
 </activity>
-
 ```
