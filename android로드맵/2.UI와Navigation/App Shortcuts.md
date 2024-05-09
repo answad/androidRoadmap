@@ -6,7 +6,7 @@
         - 이러한 단축키는 홈 화면에서 개별적으로 이동하고 배치할 수 있어 더 빠른 접근이 가능하다
 
 ![스크린샷 2024-05-08 오후 8.37.51.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F38%2Fkvylqg593kzbfrl92wb5532w0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_kvTl9i%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-08%20%EC%98%A4%ED%9B%84%208.37.51.png)
-
+c
 # 바로가기 유형
 
 - 각 숏컷은 하나 이상의 Intent를 받고
