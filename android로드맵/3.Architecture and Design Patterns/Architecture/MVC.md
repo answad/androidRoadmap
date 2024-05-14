@@ -24,7 +24,16 @@
 - 사용자가 이벤트를 발생시키면 view에서받은 event를 controller로 전달한다
 - controller는 이벤트에따라 맞는 model을 사용한다
 - model이 이벤트를 처리한다
-- 이벤트가 발생시킨 변경을 view에 업데이트한다
+- 이벤트가 발생시킨 변경을 model이 view에 업데이트한다
+    - **model이 직접 view를 업데이트한다**
+
+# 특징
+
+### Controller와 view의 관계
+
+- Controller : view = 1 : n
+    - 하나의 Controller가 여러 view를 컨트롤할수 있다
+- 컨트롤러는 view를 직접 업데이트하지 않는다
 
 ### 안드로이드에서의 MVC는
 
