@@ -37,7 +37,7 @@ val editor: SharedPreferences.Editor = prefs.edit()
 ```
 
 - SharedPreferences 파일을 수정하기 위해 SharedPreferences.Editor 객체를 생성한다
-- SharedPreferences.Editor 는
+- SharedPreferences.Editor 는 SharedPreferences에 key-value 쌍을 삽입하고 수정한다
 
 ```kotlin
 editor.putString(KEY_USERNAME, "JohnDoe")
